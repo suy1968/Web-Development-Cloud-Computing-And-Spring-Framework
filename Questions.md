@@ -1,0 +1,13 @@
+
+![WhatsApp Image 2021-12-11 at 6 29 48 PM (1)](https://user-images.githubusercontent.com/65703138/145702261-00d0a6f8-32af-4324-ae7e-0ec6d60232ed.jpeg)
+![WhatsApp Image 2021-12-11 at 6 29 48 PM](https://user-images.githubusercontent.com/65703138/145702263-c441a7f2-18a0-489a-b0e6-49c7ccf2dc4a.jpeg)
+[Questions Pattern.pdf](https://github.com/riti2409/Cloud-Computing/files/7698195/Questions.Pattern.pdf)
+[question paper 3.docx.pdf](https://github.com/riti2409/Cloud-Computing/files/7698196/question.paper.3.docx.pdf)
+![2](https://user-images.githubusercontent.com/65703138/145702264-c58be745-210b-4be5-bad6-09815bab1115.jpg)
+![3](https://user-images.githubusercontent.com/65703138/145702265-f7aa0b42-bac0-4224-910c-e334ea2242e5.jpg)
+![4](https://user-images.githubusercontent.com/65703138/145702266-5d00cc25-aa9f-4f52-b56c-b22af5b24e36.jpg)
+![5](https://user-images.githubusercontent.com/65703138/145702267-a6c99629-801e-45e6-87ff-ab30f4009e3a.jpg)
+![6](https://user-images.githubusercontent.com/65703138/145702268-75e3a26b-8a1e-4119-816c-1357c15f9b7f.jpg)
+[question paper 2.pdf](https://github.com/riti2409/Cloud-Computing/files/7698197/question.paper.2.pdf)
+[question paper.pdf](https://github.com/riti2409/Cloud-Computing/files/7698198/question.paper.pdf)
+![WhatsApp Image 2021-12-11 at 6 29 48 PM (2)](https://user-images.githubusercontent.com/65703138/145702269-c7ef1091-52b7-4697-9311-e962a83c3bc5.jpeg)
