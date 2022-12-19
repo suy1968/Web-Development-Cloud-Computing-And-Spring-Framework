@@ -1,0 +1,30 @@
+You have a string S of lowercase letters, and an integer array shifts.
+Call the shift of a letter, the next letter in the alphabet, (wrapping around so that 'z' becomes 'a'). 
+
+For example, shift('a') = 'b', shift('t') = 'u', and shift('z') = 'a'.
+
+Now for each shifts[i] = x, we want to shift the first i+1 letters of S, x times.
+
+Return the final string after all such shifts to S are applied (Give most optimal solution).
+
+Constraints:
+ ----> 1 <= S.length = shifts.length <= 20000
+ ----> 0 <= shifts[i] <= 10 ^ 9
+Input: 
+     S = "abc", shifts = [3,5,9]
+Output: 
+     "rpl"
+	 
+	 
+	 
+	 
+	 
+	 
+Given a string and list of strings,print true if the string ca be constructed using items present in the pool,
+there is no restriction on number of times a pool items can be used.
+
+Pool =["ab","c","d"]
+
+S1= "abcd", output = True
+S2= "ddc" , output = True
+S3 = "abbcd", output = False

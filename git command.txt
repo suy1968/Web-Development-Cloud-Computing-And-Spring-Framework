@@ -1,0 +1,15 @@
+git status
+
+git pull
+
+git checkout feature/suyash
+
+git pull origin release/joshua_tree_6.2.0
+
+git push
+
+
+git add
+
+git commit -m "some message"
+

@@ -1,0 +1,89 @@
+Covid-19 predictor end to end web app using streamlit,Python.
+purpose:- analysis of covid cases
+the dataset taken from CSSEGISandData.
+Aim:-predicting the number of covid cases as A realtime Analysis and Visualization of Coronavirus
+description:-
+Basic options for users to choose:-
+1) quick analysis:- 
+a)Recent confirmed cases all over the world(list of recent confirmed cases all over the world 
+country wise) .
+b)Recent cases all over the world( list of recent deaths due to Corona Virus all over the world country wise)
+c)Recent Recoveries all over the world(list of recent recoveries of Corona Virus all
+ over the world country wise)
+d)Number of CoronaVirus cases overtime(chart visualises the increase of Corona Virus cases over time)
+e)Daily increase of Corona Virus(chart visualises the daily increase of Corona Virus cases all over the World)
+f)Number of Corona Virus cases in major countries(visualises the number of Corona Virus cases in 
+major countries)
+g)Countries that are most affected by Corona Virus(Only showing 10 countries with the most confirmed cases, 
+the rest are grouped into the other category)
+
+2)Detailed Analysis:-
+a)Confirmed cases all over the world(list of all the Confirmed cases all over the world country 
+wise from January 22,2020)
+b)Deaths all over the world( list of all the Deaths due to Corona Virus all over the world country
+ wise from January 22,2020)
+c)Recoveries all over the world( list of all the Recoveries of Corona Virus cases all over the world country
+ wise from January 22,2020)
+d)Comparision between Coronavirus deaths vs Coronavirus recoveries(visualises the number of Corona Virus cases 
+in major countries)
+e)Number of Corona Virus recoveries(visualises the number of Corona Virus recoveries all over the world)
+f)Number of Corona Virus deaths(visualises the number of Corona Virus deaths all over the world)
+
+3) Victims per country : list of countries that are affected by Corona Virus 
+and the number of victims in each countries
+
+
+
+outcome:- cases of covid were increases day by day. the recovery was on the bright side.
+home quarantine people were getting recovered easily.
+ 
+Three companies used streamlit in their tech stacks including lms,melio consulting and isaac.
+
+streanlit founded by adrien treuille , amanda kelly and thiago teixeira.
+
+Streamlit is an open-source Python library that makes it easy to create and share beautiful, 
+custom web apps for machine learning and data science.
+In just a few minutes you can build and deploy powerful data apps
+
+Advantages: 
+1. It embraces python-scripting. 
+2. Less code is needed to create amazing web-apps. 
+3. No callbacks are needed since widgets are treated as variables. 
+4. Data caching simplifies and speeds up computation pipelines. 
+
+Disadvantages: 
+1. Streamlit’s Data caching cannot keep track of changes to the data happening
+ outside the function body.
+
+
+Streamlit allows you to write the title, header, and also supports various functions.
+
+st.title()- to set the title
+st.text() to write the description for the particular graph
+st.markdown() to display text as markdown
+st.latex() to display the mathematical expressions in the dashboard.
+st.write() helps to display everything such as plotly graph, dataframe, functions, model, etc.
+st.sidebar() is used for displaying data on the sidebar.
+st.dataframe() to display the data frame
+st.map() to display the map in just a single line code etc
+ 
+Streamlit also allows us to record a screencast of our app so that 
+we can share what we have created with our friends, colleagues, etc. 
+
+Data Caching:-
+st.cache decorator indicates  that the data will bedownloaded only once 
+and cached for the future. Streamlit keeps track of the function name, the code in the function body, 
+and the input arguments we pass in the function call.
+The main limitation of Streamlit’s data caching is that it cannot keep track of changes to the data 
+happening outside of the function body.
+
+Tensorflow :- TensorFlow is an open source library for numerical computation and large-scale machine learning
+
+
+TensorFlow is an open-sourced end-to-end platform, a library for multiple machine learning tasks,
+ while Keras is a high-level neural network library that runs on top of TensorFlow. Both provide
+ high-level APIs used for easily 
+building and training models, but Keras is more user-friendly because it's built-in Python
+
+SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping 
+the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python.
